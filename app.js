@@ -1,3 +1,6 @@
+ function currentAnime () 
+{
+
   alert("welcome to our website! ");
 
  var favAnime = prompt ('what is your favourate anime?');
@@ -25,7 +28,8 @@ for(var i = 0; i <numberOfEp ; i++)
  {document.write('<img src="https://uploads.turbologo.com/uploads/design/hq_preview_image/4551835/draw_svg20210514-11995-1xrfz2r.svg.png" />')
  }
 }
-
+}
+currentAnime ()
 
 
 
